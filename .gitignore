@@ -1,0 +1,8 @@
+#ignore files
+.DS_Store
+Build
+xcuserdata
+*.xccheckout
+*.xcscmblueprint
+Pods/
+DerivedData/
